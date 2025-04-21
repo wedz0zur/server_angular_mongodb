@@ -25,3 +25,4 @@
 10. `npm i cors` - Middleware для Express, который упрощает настройку CORS (Cross-Origin Resource Sharing).
     Позволяет вашему API безопасно обрабатывать запросы с других доменов (например, если фронтенд на http://localhost:3000, а бэкенд на http://localhost:5000).
 
+11. `npm i multer` - промежуточное ПО для обработки формата multipart/form-data, который используется при загрузке файлов через HTML-формы. 
